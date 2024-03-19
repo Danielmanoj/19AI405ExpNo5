@@ -59,6 +59,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
-<h1>ExpNo 5 : RESULT</h1>
+<h1>Result</h1>
 
 The simple hill climbing algorithm has been performed successfully.
